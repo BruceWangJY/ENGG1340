@@ -9,3 +9,4 @@ This program focuses on a deli with a maximum capacity of 50 person. There will 
  3) release a table; 
  4) given the number of a group of customers, suggest a vacant table with minimal enough seats;
  5) notify the waiter for tables occupied for too long(90 minutes for Table A and B, 2 hours for Table C).
+ 6) This system supports online reservation, customers can reserve a table that is available in advance. Each table can only  be reserved for 90 minutes. In this period, other customer cannot occupy this table. However, if customers don’t show up in 90 minutes, this table will turn available for other customers to occupy and reserve.
