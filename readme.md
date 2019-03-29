@@ -19,4 +19,5 @@ This program focuses on a deli with a maximum capacity of 50 person. There will 
 
 ## Authors
 Junyuan Wang <<u3553285@connect.hku.hk>>
+
 Hongli Xu <<xuhongli@connect.hku.hk>>
