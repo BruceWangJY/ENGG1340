@@ -18,5 +18,5 @@ This program focuses on a deli with a maximum capacity of 50 person. There will 
  9) This system supports reservation. Customers can reserve a table that is available in advance. Each table can only  be reserved for 90 minutes. In this period, other customer cannot occupy this table. However, if customers don’t show up in 90 minutes, this table will return available for other customers to occupy and reserve.
 
 ## Authors
-Junyuan Wang <u3553285@connect.hku.hk>
-Hongli Xu <xuhongli@connect.hku.hk>
+Junyuan Wang <<u3553285@connect.hku.hk>>
+Hongli Xu <<xuhongli@connect.hku.hk>>
