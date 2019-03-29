@@ -1,7 +1,10 @@
 # ENGG1340 Group Project
 ## Table Management System
 ### Problem Statements
-This program targets to build a table management system for small resturaunts to manage the few tables of  different sizes.
+This C++ program is aiming at helping a family-owned restaurant to have a table management system to control the status of each table to make up for the waiter shortage.
+
+In reality, family-owned restaurant will have a relatively less table, but due to the waiter shortage, it is not easy for each waiter to remember which table is reserved by different customers. As a consequence, this program could help manage the table and help recommender the most suitable table when customers come. Moreover, considering the situation that customers might occupy a table for a long time to chat so that it might affect other waiting customers, this system could remind the waiter if a table is occupied by a certain group for a long time slot.
+
 ### Problem Settings
 This program focuses on a deli with a maximum capacity of 50 person. There will be 3 types of table: Table A for 2-3 person, Table B for 4-6 person and Table C for 7-8 person. There will be 3 kinds of possible status of each table: avaliable, occupied or reserved. The system will have the following functions:
  1) check whether a table is available or not; 
