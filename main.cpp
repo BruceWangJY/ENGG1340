@@ -2,7 +2,7 @@
 
 int recommendTable(table tables[], int numA, int numB, int numC){
   int customers;
-  cout << "Please input the number (no lager than 6) of customers: ";
+  cout << "Please input the number (no larger than 6) of customers: ";
   cin >> customers;
   cout << endl;
   if (customers <= 2){
@@ -74,7 +74,7 @@ void checkTable(table tables[], int numA, int numB, int numC){
 void changeSetting(int &numA, int &numB, int &numC){
   char t;
   int n;
-  cout << "please input the type and No. of the table (e.g. A 1 to change the number of table A to 1) or 0 to return: ";
+  cout << "please input the type and number (no larger than 10) of the table (e.g. A 1 to change the number of table A to 1) or 0 to return: ";
   cin >> t;
   cout << endl;
   while (t != '0'){
