@@ -1,4 +1,4 @@
-#include "table0.h"
+#include "classtable.h"
 
 void timeRestrict(table A){
   while (true){
