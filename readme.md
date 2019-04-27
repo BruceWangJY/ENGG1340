@@ -16,6 +16,7 @@ This program focuses on a deli with a maximum capacity of 50 person. There will 
  7) Given the number of a group of customers, suggest a vacant table with minimal enough seats using recommendTable function, it will print the minimum number of the suitable size;
  8) To notify the waiter for tables occupied for too long(90 minutes for Table A and B, 2 hours for Table C) using timeRestrict and timming function, we introduce time.h and thread and use clock() and another thread to count the time each table has been used.After 90 or 120 minutes, the program will print the relevant table is out of time. And for test, time for table A and B is 30 seconds and for C is 45 seconds. In the real situation, we will introduce utistd.h and use function sleep() to increase the efficiency of our program.
  9) This system supports reservation. Customers can reserve a table that is available in advance using reserveTable function to change the status of table. And then it can be occupied by occuptTable function. In this period, other customer cannot occupy this table.
+ 10）Initialize all the table by using function 9, which turns all tables' status into available.
 
 ## Authors
 Junyuan Wang <<u3553285@connect.hku.hk>>
