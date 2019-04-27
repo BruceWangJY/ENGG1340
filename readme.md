@@ -12,7 +12,7 @@ This program focuses on a deli with a maximum capacity of 50 person. There will 
  3) To change the number of tables or type of tables;
  4) To check whether a table is available or not; 
  5) To print the current status of all table;
- 6) Given the number of a group of customers, suggest a vacant table with minimal enough seats;
+ 6) Given the number of a group of customers, suggest a vacant table with minimal enough seats using recommendTable function, it will print the ;
  7) To notify the waiter for tables occupied for too long(90 minutes for Table A and B, 2 hours for Table C).
  8) This system supports reservation. Customers can reserve a table that is available in advance. Each table can only be reserved for 90 minutes. In this period, other customer cannot occupy this table. However, if customers don’t show up in 90 minutes, this table will return available for other customers to occupy and reserve.
 
