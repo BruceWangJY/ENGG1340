@@ -1,0 +1,175 @@
+Enter 1 to read from file for the table setting
+      2 to randomly generate the setting or
+      0 to end the program
+Please input your command: 2
+
+type    status
+  A1    available
+  B1    available
+  B2    available
+  C1    available
+  C2    available
+  C3    available
+
+1 occupy a table
+2 release a table
+3 reserve a table
+4 recommend a table
+5 check the status of a table
+6 show current status of all table
+7 change the table setting
+8 cancle a reservation
+9 initialization
+0 end the program
+
+Please input the number of your command: 1
+
+please input the type and No. of the table (e.g. A 1) or 0 to return: A1
+
+A1 is occupied
+
+please input the type and No. of the table (e.g. A 1) or 0 to return: 0
+
+1 occupy a table
+2 release a table
+3 reserve a table
+4 recommend a table
+5 check the status of a table
+6 show current status of all table
+7 change the table setting
+8 cancle a reservation
+9 initialization
+0 end the program
+
+Please input the number of your command: 2
+
+please input the type and No. of the table (e.g. A 1) or 0 to return: A1
+
+A1 is released
+
+please input the type and No. of the table (e.g. A 1) or 0 to return: 0
+
+1 occupy a table
+2 release a table
+3 reserve a table
+4 recommend a table
+5 check the status of a table
+6 show current status of all table
+7 change the table setting
+8 cancle a reservation
+9 initialization
+0 end the program
+
+Please input the number of your command: 3
+
+please input the type and No. of the table (e.g. A 1) or 0 to return: A2
+
+input is invalid
+
+please input the type and No. of the table (e.g. A 1) or 0 to return: A1
+
+A1 is reserved
+
+please input the type and No. of the table (e.g. A 1) or 0 to return: 0
+
+1 occupy a table
+2 release a table
+3 reserve a table
+4 recommend a table
+5 check the status of a table
+6 show current status of all table
+7 change the table setting
+8 cancle a reservation
+9 initialization
+0 end the program
+
+Please input the number of your command: 4
+
+Please input the number (no larger than 6) of customers: 2
+
+ No suitable table is available now
+
+1 occupy a table
+2 release a table
+3 reserve a table
+4 recommend a table
+5 check the status of a table
+6 show current status of all table
+7 change the table setting
+8 cancle a reservation
+9 initialization
+0 end the program
+
+Please input the number of your command: 5
+
+please input the type and No. of the table (e.g. A 1) or 0 to return: A
+table A1 has been occupied for too long
+2
+
+input is invalid
+
+please input the type and No. of the table (e.g. A 1) or 0 to return: B1
+
+table B1 is now available
+
+please input the type and No. of the table (e.g. A 1) or 0 to return: 0
+
+1 occupy a table
+2 release a table
+3 reserve a table
+4 recommend a table
+5 check the status of a table
+6 show current status of all table
+7 change the table setting
+8 cancle a reservation
+9 initialization
+0 end the program
+
+Please input the number of your command: 6
+
+type    status
+  A1    reserved
+  B1    available
+  B2    available
+  C1    available
+  C2    available
+  C3    available
+
+1 occupy a table
+2 release a table
+3 reserve a table
+4 recommend a table
+5 check the status of a table
+6 show current status of all table
+7 change the table setting
+8 cancle a reservation
+9 initialization
+0 end the program
+
+Please input the number of your command: 7
+
+please input the type and number (no larger than 10) of the table (e.g. A 1 to change the number of table A to 1) or 0 to return: A 2
+
+the number of table A is now changed to 2
+
+please input the type and No. of the table (e.g. A 1) or 0 to return: 0
+
+1 occupy a table
+2 release a table
+3 reserve a table
+4 recommend a table
+5 check the status of a table
+6 show current status of all table
+7 change the table setting
+8 cancle a reservation
+9 initialization
+0 end the program
+
+Please input the number of your command: 9
+
+Enter 1 to read from file for the table setting
+      2 to randomly generate the setting or
+      0 to end the program
+Please input your command: 0
+
+Press any key to continue...
